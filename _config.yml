@@ -4,7 +4,7 @@ theme: minima
 
 minima:
   navigation:
-    - title: "Home"
+    - title: "About"
       url: "/"
     - title: "Publications"
       url: "/publications/"
