@@ -6,7 +6,9 @@ title: About
 Welcome to my personal website!
 
 - 🔗 [GitHub](https://github.com/FedericoBonafini)
-- 💼 [LinkedIn](https://www.linkedin.com/in/federico-bonafini-573ba2343)
+- <a href="https://www.linkedin.com/in/federico-bonafini-573ba2343" target="_blank" rel="noopener">
+  <i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn
+</a>
 - 📧 [Email](mailto:federico.bonafini@phd.unipd.it) : federico.bonafini@phd.unipd.it
 
 Abou t me:  
