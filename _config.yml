@@ -6,8 +6,6 @@ minima:
   # social_links:
   #   github: FedericoBonafini
   navigation:
-    - title: "Home"
-      url: "/"
     - title: "Publications"
       url: "/publications/"
     - title: "CV"
