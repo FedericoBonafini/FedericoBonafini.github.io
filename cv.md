@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-Here you can add your CV details or a [PDF download](/CV.pdf).
+Here you can add your CV details or a [PDF download](/cv.pdf).
