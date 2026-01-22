@@ -1,9 +1,9 @@
 ---
 layout: page
-title: CV
+title: Federico Bonafini - CV
 permalink: /cv/
 ---
 
 # Curriculum Vitae
 
-Here you can add your CV details or a [PDF download](link-to-cv.pdf).
+Here you can add your CV details or a [PDF download](/CV.pdf).
