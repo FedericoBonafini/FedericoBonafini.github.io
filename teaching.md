@@ -5,4 +5,3 @@ permalink: /teaching/
 ---
 
 Here is my teaching activities:
-
