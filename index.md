@@ -7,9 +7,9 @@ title: About
 Welcome to my personal website!
 
 - <a href="https://github.com/FedericoBonafini" target="_blank" rel="noopener">
-  <i class="fab fa-github"></i> GitHub</a>
+  <i class="fab fa-github"></i> GitHub</a> : FedericoBonafini
 - <a href="https://www.linkedin.com/in/federico-bonafini-573ba2343" target="_blank" rel="noopener">
-  <i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a>
+  <i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a> : Federico Bonafini
 - <a href="mailto:federico.bonafini@phd.unipd.it" target="_blank" rel="noopener">
   <i class="fa fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a> : federico.bonafini@phd.unipd.it
 
