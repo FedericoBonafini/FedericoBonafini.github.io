@@ -3,10 +3,8 @@ author: Federico Bonafini
 theme: minima
 
 minima:
-  #social_links: # you can add these if you want
-    #github: FedericoBonafini
-  # Optional, for navigation:
-  # https://github.com/jekyll/minima#navigation-links
+  # social_links:
+  #   github: FedericoBonafini
   navigation:
     - title: "Home"
       url: "/"
