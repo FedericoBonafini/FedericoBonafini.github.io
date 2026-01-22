@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Federico Bonafini - About
 ---
-
-# Federico Bonafini
 
 Welcome to my personal website!
 
