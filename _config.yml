@@ -1,3 +1,16 @@
 title: Federico Bonafini
 author: About - Federico Bonafini
 theme: minima
+
+minima:
+  #social_links: # you can add these if you want
+    #github: FedericoBonafini
+  # Optional, for navigation:
+  # https://github.com/jekyll/minima#navigation-links
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Publications"
+      url: "/publications/"
+    - title: "CV"
+      url: "/cv/"
