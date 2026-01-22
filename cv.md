@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Federico Bonafini - CV
+title: CV
 permalink: /cv/
 ---
 
